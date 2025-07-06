@@ -1,0 +1,377 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Case Study\\LoanFrontendIntegration - Copy\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\LoanFrontendIntegration.bundle.scp.css",
+      "PackagePath": "staticwebassets\\LoanFrontendIntegration.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Case Study\\LoanFrontendIntegration - Copy\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Case Study\\LoanFrontendIntegration - Copy\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Case Study\\LoanFrontendIntegration - Copy\\wwwroot\\image\\1img.png",
+      "PackagePath": "staticwebassets\\image\\1img.png"
+    },
+    {
+      "Id": "D:\\Case Study\\LoanFrontendIntegration - Copy\\wwwroot\\images\\Cloan.jpg",
+      "PackagePath": "staticwebassets\\images\\Cloan.jpg"
+    },
+    {
+      "Id": "D:\\Case Study\\LoanFrontendIntegration - Copy\\wwwroot\\images\\GOldimg.jpg",
+      "PackagePath": "staticwebassets\\images\\GOldimg.jpg"
+    },
+    {
+      "Id": "D:\\Case Study\\LoanFrontendIntegration - Copy\\wwwroot\\images\\Gl.jpg",
+      "PackagePath": "staticwebassets\\images\\Gl.jpg"
+    },
+    {
+      "Id": "D:\\Case Study\\LoanFrontendIntegration - Copy\\wwwroot\\images\\Gloan.svg",
+      "PackagePath": "staticwebassets\\images\\Gloan.svg"
+    },
+    {
+      "Id": "D:\\Case Study\\LoanFrontendIntegration - Copy\\wwwroot\\images\\HLoan.png",
+      "PackagePath": "staticwebassets\\images\\HLoan.png"
+    },
+    {
+      "Id": "D:\\Case Study\\LoanFrontendIntegration - Copy\\wwwroot\\images\\Homeimg.jpg",
+      "PackagePath": "staticwebassets\\images\\Homeimg.jpg"
+    },
+    {
+      "Id": "D:\\Case Study\\LoanFrontendIntegration - Copy\\wwwroot\\images\\Personalimg.jpg",
+      "PackagePath": "staticwebassets\\images\\Personalimg.jpg"
+    },
+    {
+      "Id": "D:\\Case Study\\LoanFrontendIntegration - Copy\\wwwroot\\images\\ProfileCustomer.jpg",
+      "PackagePath": "staticwebassets\\images\\ProfileCustomer.jpg"
+    },
+    {
+      "Id": "D:\\Case Study\\LoanFrontendIntegration - Copy\\wwwroot\\images\\Termimg.jpg",
+      "PackagePath": "staticwebassets\\images\\Termimg.jpg"
+    },
+    {
+      "Id": "D:\\Case Study\\LoanFrontendIntegration - Copy\\wwwroot\\images\\aboutimg.jpg",
+      "PackagePath": "staticwebassets\\images\\aboutimg.jpg"
+    },
+    {
+      "Id": "D:\\Case Study\\LoanFrontendIntegration - Copy\\wwwroot\\images\\bLoan.png",
+      "PackagePath": "staticwebassets\\images\\bLoan.png"
+    },
+    {
+      "Id": "D:\\Case Study\\LoanFrontendIntegration - Copy\\wwwroot\\images\\backimg.jpg",
+      "PackagePath": "staticwebassets\\images\\backimg.jpg"
+    },
+    {
+      "Id": "D:\\Case Study\\LoanFrontendIntegration - Copy\\wwwroot\\images\\businessimg.jpg",
+      "PackagePath": "staticwebassets\\images\\businessimg.jpg"
+    },
+    {
+      "Id": "D:\\Case Study\\LoanFrontendIntegration - Copy\\wwwroot\\images\\c.jpg",
+      "PackagePath": "staticwebassets\\images\\c.jpg"
+    },
+    {
+      "Id": "D:\\Case Study\\LoanFrontendIntegration - Copy\\wwwroot\\images\\car1.jpg",
+      "PackagePath": "staticwebassets\\images\\car1.jpg"
+    },
+    {
+      "Id": "D:\\Case Study\\LoanFrontendIntegration - Copy\\wwwroot\\images\\carimg.jpg",
+      "PackagePath": "staticwebassets\\images\\carimg.jpg"
+    },
+    {
+      "Id": "D:\\Case Study\\LoanFrontendIntegration - Copy\\wwwroot\\images\\contact_us.jpg",
+      "PackagePath": "staticwebassets\\images\\contact_us.jpg"
+    },
+    {
+      "Id": "D:\\Case Study\\LoanFrontendIntegration - Copy\\wwwroot\\images\\eloan.png",
+      "PackagePath": "staticwebassets\\images\\eloan.png"
+    },
+    {
+      "Id": "D:\\Case Study\\LoanFrontendIntegration - Copy\\wwwroot\\images\\partners.png",
+      "PackagePath": "staticwebassets\\images\\partners.png"
+    },
+    {
+      "Id": "D:\\Case Study\\LoanFrontendIntegration - Copy\\wwwroot\\images\\ploan.png",
+      "PackagePath": "staticwebassets\\images\\ploan.png"
+    },
+    {
+      "Id": "D:\\Case Study\\LoanFrontendIntegration - Copy\\wwwroot\\images\\profileimg.jpg",
+      "PackagePath": "staticwebassets\\images\\profileimg.jpg"
+    },
+    {
+      "Id": "D:\\Case Study\\LoanFrontendIntegration - Copy\\wwwroot\\images\\quote.png",
+      "PackagePath": "staticwebassets\\images\\quote.png"
+    },
+    {
+      "Id": "D:\\Case Study\\LoanFrontendIntegration - Copy\\wwwroot\\images\\risk.png",
+      "PackagePath": "staticwebassets\\images\\risk.png"
+    },
+    {
+      "Id": "D:\\Case Study\\LoanFrontendIntegration - Copy\\wwwroot\\images\\riskandrewards.png",
+      "PackagePath": "staticwebassets\\images\\riskandrewards.png"
+    },
+    {
+      "Id": "D:\\Case Study\\LoanFrontendIntegration - Copy\\wwwroot\\images\\risks.png",
+      "PackagePath": "staticwebassets\\images\\risks.png"
+    },
+    {
+      "Id": "D:\\Case Study\\LoanFrontendIntegration - Copy\\wwwroot\\images\\sloan_n.jpg",
+      "PackagePath": "staticwebassets\\images\\sloan_n.jpg"
+    },
+    {
+      "Id": "D:\\Case Study\\LoanFrontendIntegration - Copy\\wwwroot\\images\\studentimg.jpg",
+      "PackagePath": "staticwebassets\\images\\studentimg.jpg"
+    },
+    {
+      "Id": "D:\\Case Study\\LoanFrontendIntegration - Copy\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Case Study\\LoanFrontendIntegration - Copy\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Case Study\\LoanFrontendIntegration - Copy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Case Study\\LoanFrontendIntegration - Copy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Case Study\\LoanFrontendIntegration - Copy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Case Study\\LoanFrontendIntegration - Copy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Case Study\\LoanFrontendIntegration - Copy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Case Study\\LoanFrontendIntegration - Copy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Case Study\\LoanFrontendIntegration - Copy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Case Study\\LoanFrontendIntegration - Copy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Case Study\\LoanFrontendIntegration - Copy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Case Study\\LoanFrontendIntegration - Copy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Case Study\\LoanFrontendIntegration - Copy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Case Study\\LoanFrontendIntegration - Copy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Case Study\\LoanFrontendIntegration - Copy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Case Study\\LoanFrontendIntegration - Copy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Case Study\\LoanFrontendIntegration - Copy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Case Study\\LoanFrontendIntegration - Copy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Case Study\\LoanFrontendIntegration - Copy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Case Study\\LoanFrontendIntegration - Copy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Case Study\\LoanFrontendIntegration - Copy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Case Study\\LoanFrontendIntegration - Copy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Case Study\\LoanFrontendIntegration - Copy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Case Study\\LoanFrontendIntegration - Copy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Case Study\\LoanFrontendIntegration - Copy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Case Study\\LoanFrontendIntegration - Copy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Case Study\\LoanFrontendIntegration - Copy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Case Study\\LoanFrontendIntegration - Copy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Case Study\\LoanFrontendIntegration - Copy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Case Study\\LoanFrontendIntegration - Copy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Case Study\\LoanFrontendIntegration - Copy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Case Study\\LoanFrontendIntegration - Copy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Case Study\\LoanFrontendIntegration - Copy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Case Study\\LoanFrontendIntegration - Copy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Case Study\\LoanFrontendIntegration - Copy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Case Study\\LoanFrontendIntegration - Copy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Case Study\\LoanFrontendIntegration - Copy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Case Study\\LoanFrontendIntegration - Copy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Case Study\\LoanFrontendIntegration - Copy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Case Study\\LoanFrontendIntegration - Copy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Case Study\\LoanFrontendIntegration - Copy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Case Study\\LoanFrontendIntegration - Copy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Case Study\\LoanFrontendIntegration - Copy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Case Study\\LoanFrontendIntegration - Copy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Case Study\\LoanFrontendIntegration - Copy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Case Study\\LoanFrontendIntegration - Copy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Case Study\\LoanFrontendIntegration - Copy\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Case Study\\LoanFrontendIntegration - Copy\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Case Study\\LoanFrontendIntegration - Copy\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Case Study\\LoanFrontendIntegration - Copy\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Case Study\\LoanFrontendIntegration - Copy\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Case Study\\LoanFrontendIntegration - Copy\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Case Study\\LoanFrontendIntegration - Copy\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Case Study\\LoanFrontendIntegration - Copy\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Case Study\\LoanFrontendIntegration - Copy\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Case Study\\LoanFrontendIntegration - Copy\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Case Study\\LoanFrontendIntegration - Copy\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Case Study\\LoanFrontendIntegration - Copy\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.LoanFrontendIntegration.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.LoanFrontendIntegration.props",
+      "PackagePath": "build\\LoanFrontendIntegration.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.LoanFrontendIntegration.props",
+      "PackagePath": "buildMultiTargeting\\LoanFrontendIntegration.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.LoanFrontendIntegration.props",
+      "PackagePath": "buildTransitive\\LoanFrontendIntegration.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
